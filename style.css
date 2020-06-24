@@ -101,8 +101,8 @@ font-size: 90%;
 {
 
 .carousel-caption{
-	font-size: 40%
-	top:40%;
+	font-size: 20%
+	top:30%;
 	
 }
 
@@ -111,21 +111,21 @@ font-size: 90%;
 }
 
 .carousel-caption h1{
-	font-size:250%;
+	font-size:180%;
 }
 
 
 
 
 .carousel-caption h3{
-	font-size: 110%;
+	font-size: 85%;
 	
 }
 
 
 .carousel-caption .btn{
-	font-size: 90%;
-	padding:4px 8px;
+	font-size: 45%;
+	padding:2px 4px;
 
 }
 
@@ -133,7 +133,7 @@ font-size: 90%;
 }
 
 .display-4{
-	font-size: 160%;
+	font-size: 120%;
 }
 
 
