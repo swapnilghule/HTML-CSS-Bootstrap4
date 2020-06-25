@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Tangerine');
 
+
+
 @media (max-width:992px)
 {
 .social a{
@@ -313,7 +315,10 @@ html,body{
 	color:#00acee ;
 }
 
-
+.social a{
+	font-size: 4.5vw;
+	padding:3rem;
+}
 .fa-youtube:hover, .fa-github:hover, .fa-linkedin:hover, .fa-instagram:hover , .fa-twitter:hover{
 color: #d5d5d5;
 }
